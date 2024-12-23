@@ -1,2 +1,0 @@
-# natal
- Cartão de Natal
